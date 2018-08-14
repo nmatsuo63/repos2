@@ -6,3 +6,4 @@
 スライド
 	* https://goo.gl/przWRJ
 
+git is fun
